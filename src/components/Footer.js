@@ -21,7 +21,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/AboobackerSiddiqueMp"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/aboobacker-siddique-325090282/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -39,15 +39,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-              </a>
-            </li>
+           
           </ul>
         </Col>
       </Row>
